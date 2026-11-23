@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.git
+.github
+.vercel
+.phpunit.cache
+.phpunit.result.cache
+node_modules
+vendor
+tests
+storage
+database/*.sqlite
+database/*.sqlite-*
+bootstrap/cache/*.php
+public/storage
